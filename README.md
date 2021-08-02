@@ -14,7 +14,7 @@ Application made using:\
        Thymeleaf\
         Maven</i>.
  
-<b>Features:</b?
+<b>Features:</b>
 -Unregistered/anonymous blog users can view all posts and comments;\
 -Registered and logged in users (Authenticated users) can add new posts, view only their own posts, edit or delete them (CRUD functionality);\
 -Users can write comments to particular posts by own or other users;\
