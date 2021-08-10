@@ -1,6 +1,7 @@
 # SpringBoot Blog(made with Spring Boot)
 #### Simple blogging platform for our internship project
 
+demo video link: https://drive.google.com/file/d/1_pRvw6dU5UsatDvIjz6SyjYfEpPkLpeB/view?usp=sharing
 
 ## About the project
 Application made using:\
